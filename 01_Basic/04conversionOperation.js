@@ -22,3 +22,23 @@ let bool2 = 2
 let convertToBool1 = Boolean(bool1) //true
 let convertToBool2 = Boolean(bool2) // false
 // null => false
+
+//********************************** Operations ***********************************
+
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2/2)
+// console.log(2%2)
+// console.log(2**3) //2 to the power 3
+
+str1 = "Souavagya "
+str2 = "Mallick"
+
+//console.log(str1 + str2)
+
+// console.log(2 + "2");
+// console.log("2" + 2);
+// console.log(2+2+"3");
+// console.log("32"+2+5);
