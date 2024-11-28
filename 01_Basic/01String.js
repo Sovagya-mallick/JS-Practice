@@ -1,8 +1,8 @@
-// let s1 = "Hello";
-// let s2 = " World";
-// let str= "JavaScript";
-// let ss = "   JavaScript  ";
-// let str1 = "5462/J44avaS555//][''';.cr;./ip2656t";
+let s1 = "Hello";
+let s2 = " World";
+let str= "JavaScript";
+let ss = "   JavaScript  ";
+let str1 = "5462/J44avaS555//][''';.cr;./ip2656t";
 
 // //concat
 // console.log(s1.concat(s2));

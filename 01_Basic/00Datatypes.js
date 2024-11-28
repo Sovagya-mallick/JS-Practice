@@ -18,7 +18,7 @@ let isMale = true //boolean
 
 //********************************** summery ******************************
 
-//  Primitive
+//  Primitive (stored in heap memory)
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt 
 
@@ -38,7 +38,7 @@ const anotherId = Symbol('123')
 
 
 
-// Reference (Non primitive)
+// Reference (Non primitive)(stored in heap memory)
 
 // Array, Objects, Functions
 
