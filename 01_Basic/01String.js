@@ -40,3 +40,4 @@ let str1 = "5462/J44avaS555//][''';.cr;./ip2656t";
 // // endsWith startsWith
 // console.log(str.startsWith('J'));
 // console.log(str.endsWith('T'));
+// console.log(str.split(5));
